@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://the-transcreators.github.io/your-translator/sitemap.xml
